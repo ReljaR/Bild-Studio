@@ -1,0 +1,114 @@
+body{
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+header{
+  min-height: 90px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 20px;
+  border-bottom: 1px solid black;
+}
+
+.hd{
+  display: inline-block;
+  float: left;
+}
+
+.hd1{
+  float: left;
+}
+
+.hd1 img{
+  width: 40px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.hd2{
+  float: right;
+}
+
+.headerDesni {
+  float: right;
+}
+
+.headerDesni li{
+  display: inline;
+  cursor: pointer;
+}
+
+.nav2 li{
+  display: inline;
+  padding-right: 14px;
+  cursor: pointer;
+}
+
+li:active{
+  color:green;
+}
+
+.nav2 ul{
+  padding-left: 150px;
+  padding-top: 30px;
+}
+
+.abouth1{
+  padding-left: 150px;
+  padding-right: 150px;
+  height: 100px;
+  background-color: #14ce58;
+  color: #fff;
+  padding-top: 20px;
+}
+
+.sredina{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.sredinaLijevo{
+  float: left;
+  width: 27%;
+}
+
+.sredinaLijevo img{
+  width: 400px;
+  height: 300px;
+  padding-top: 50px;
+}
+
+.sredinaDesno{
+  float: left;
+  width: 73%;
+}
+
+.sredinaDesno p{
+  padding-top: 45px;
+}
+
+.sredina2{
+  margin-left: 150px;
+  margin-right: 150px;
+  float: left;
+  clear: left;
+  width: 85%;
+}
+
+.sr2l{
+  width: 50%;
+  float: left;
+}
+
+.sr2d{
+  width: 50%;
+  float: left;
+}
+
+.services{
+  margin-left: 150px;
+  margin-right: 150px;
+  float: left;
+  clear: left;
+}
